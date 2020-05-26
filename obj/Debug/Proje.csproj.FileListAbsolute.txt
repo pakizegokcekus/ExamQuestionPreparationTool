@@ -1,0 +1,14 @@
+C:\Users\pakize\source\repos\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\pakize\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\pakize\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.exe.licenses
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.frmSoruBankası.resources
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.frm_CoktanSecmeli.resources
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.frm_DogruYanlıs.resources
+C:\Users\pakize\source\repos\Proje\Proje\obj\Debug\Proje.frm_klasik.resources
